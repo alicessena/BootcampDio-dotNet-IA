@@ -23,7 +23,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 
 ## 🏆 Certificados Conquistados
 
-<table border="2">
+<table border="1">
   <tr>
     <td>
         <a href="https://hermes.dio.me/certificates/BV0ONWBC.pdf"><img src="./badges/csharp.webp" width="50px"></a>

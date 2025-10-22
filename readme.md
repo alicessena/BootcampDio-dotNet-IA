@@ -46,7 +46,30 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 <table border="1">
   <tr> <h3> Sintaxe Básica com .Net </h3> </tr>
     <td>
-        <a href="#"><img src="./badges/csharp.webp" width="100px"></a>
+        <a href="https://hermes.dio.me/certificates/PEBJAW6G.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/RLSDVQQJ.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/PPRFNNGR.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/UHGKKRCW.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/5YU0WKW6.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://hermes.dio.me/certificates/XBLJYY2A.pdf"><img src="./badges/csharp.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/XJQQ674Z.pdf"><img src="./badges/desafio.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="./desafios"><img src="./badges/desafio3.webp" width="100px"></a>
     </td>
    
   </tr>

@@ -24,24 +24,31 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 ## 🏆 Certificados Conquistados
 
 <table border="1">
-  <tr>
+  <tr> <h3> Principios do Desenvolvimento de Aplicações </h3> </tr>
     <td>
-        <a href="https://hermes.dio.me/certificates/BV0ONWBC.pdf"><img src="./badges/csharp.webp" width="50px"></a>
+        <a href="https://hermes.dio.me/certificates/BV0ONWBC.pdf"><img src="./badges/csharp.webp" width="100px"></a>
     </td>
     <td>
-        <a href="https://hermes.dio.me/certificates/410FUWJI.pdf"><img src="./badges/csharp.webp" width="50px"></a>
+        <a href="https://hermes.dio.me/certificates/410FUWJI.pdf"><img src="./badges/csharp.webp" width="100px"></a>
     </td>
     <td>
-        <a href="https://hermes.dio.me/certificates/U0XUNBCL.pdf"><img src="./badges/github.webp" width="50px"></a>
+        <a href="https://hermes.dio.me/certificates/U0XUNBCL.pdf"><img src="./badges/github.webp" width="100px"></a>
     </td>
     <td>
-        <a href="https://hermes.dio.me/certificates/6XTBRBNU.pdf"><img src="./badges/portfolio.webp" width="50px"></a>
+        <a href="https://hermes.dio.me/certificates/6XTBRBNU.pdf"><img src="./badges/portfolio.webp" width="100px"></a>
     </td>
     <td>
-        <a href="https://hermes.dio.me/certificates/OC0HGIJ5.pdf"><img src="./badges/opens.webp" width="50px"></a>
+        <a href="https://hermes.dio.me/certificates/OC0HGIJ5.pdf"><img src="./badges/opens.webp" width="100px"></a>
+    </td>  
+  </tr>
+</table>
+
+<table border="1">
+  <tr> <h3> Sintaxe Básica com .Net </h3> </tr>
+    <td>
+        <a href="#"><img src="./badges/csharp.webp" width="100px"></a>
     </td>
-    
-      
+   
   </tr>
 </table>
 

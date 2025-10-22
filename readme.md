@@ -21,7 +21,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 - Git e GitHub
 - Fundamentos de Inteligência Artificial
 
-## 🏆 Certificados Conquistados
+## 🏆 Certificados Conquistados (Clique e Acesse)
 
 <table border="1">
   <tr> <h3> Principios do Desenvolvimento de Aplicações </h3> </tr>

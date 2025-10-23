@@ -69,6 +69,9 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
         <a href="https://hermes.dio.me/certificates/XJQQ674Z.pdf"><img src="./badges/desafio.webp" width="100px"></a>
     </td>
     <td>
+        <a href="https://hermes.dio.me/certificates/ILPAH33Y.pdf"><img src="./badges/desafiocomp.webp" width="100px"></a>
+    </td>
+    <td>
         <a href="./desafios"><img src="./badges/desafio3.webp" width="100px"></a>
     </td>
    

@@ -74,36 +74,39 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
     <td>
         <a href="./desafios"><img src="./badges/desafio3.webp" width="100px"></a>
     </td>
-   
+  
   </tr>
+  </table>
+
+  <table border="1">
+
+  <tr>
+    <h3> Programação Orientada a Objetos </h3>
+    <td>
+        <a href="https://hermes.dio.me/certificates/4NW4R7VH.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/OVCOAUVW.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/WRECTEY0.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/EBEVAHAA.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/CXTLYEAV.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+    </td>
+    <td>
+        <a href="https://hermes.dio.me/certificates/RUD7WI58.pdf"><img src="./badges/desafiodois.webp" width="100px"></a>
+    </td>
 </table>
 
-<!-- 
-## 📂 Estrutura do Repositório
-O repositório está organizado da seguinte maneira:
-```
-📁 avanade-backend-dotnet-ia
- ┣ 📂 modulo-1
- ┃ ┣ 📜 atividade1.md
- ┃ ┣ 📜 atividade2.md
- ┣ 📂 modulo-2
- ┃ ┣ 📜 desafio1.md
- ┃ ┣ 📜 desafio2.md
- ┣ 📂 projetos
- ┃ ┣ 📂 projeto-final
- ┃ ┃ ┣ 📜 README.md
- ┃ ┃ ┣ 📜 Program.cs
- ┃ ┃ ┣ 📜 Startup.cs
- ┃ ┃ ┣ 📜 Controllers
- ┃ ┃ ┣ 📜 Models
- ┃ ┃ ┣ 📜 Services
- ┗ 📜 README.md
-``` -->
 
 ## 📌 Atividades e Projetos
 - **Módulo 1:** Principios do Desenvolvimento de Aplicações 
-- **Módulo 2:** Sintaxe Básica com .Net
-- **Módulo 3:** Programação Orientada a Objetos
+- **Módulo 2:** Sintaxe Básica com .Net - [Desafio Estacionamento](https://github.com/alicessena/trilhaNetFundamentosDesafio).
+- **Módulo 3:** Programação Orientada a Objetos - [Desafio Hospedagem](https://github.com/alicessena/TrilhaNetExplorandoDesafio).
 - **Módulo 4:** Desenvolvimento de API
 - **Módulo 5:** Integração com Banco de Dados
 - **Módulo 4:** Introdução a Serviços de IA na Cloud com a Azure

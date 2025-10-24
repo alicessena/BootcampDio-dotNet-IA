@@ -104,6 +104,26 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 
 ---
 
+### 🧩 Desenvolvimento de APIs
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="5">Certificados do Módulo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://hermes.dio.me/certificates/6WNI7V8O.pdf"><img src="https://assets.dio.me/yxWZmUvX4hei25xGIpZDDBNYBFZSwNp3BSOKplLUu_E/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvMmZlNTc0ZjItOTc0Ny00MDI3LWFlNTQtMzBiNzRhNWJhMDM0LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/1999U3WW.pdf"><img src="https://assets.dio.me/hHdI-d8HVO1Jsp60PLwxE61gW-fpGzwhJLXz5k4IOtI/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvY2U2OTFiOGUtNTQwYy00NWJmLTgzNWEtZWQ0NmI3MmIxMmU5LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/CMDTKXME.pdf"><img src="https://assets.dio.me/Kevd3DGFNY-Qa0XR2GjyA9ML57MD5sjOo0s7sbSwTj0/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzBhNmNmZDEtMjc2OS00NDYzLTkyOTktOThhNGQ1ODJhNDNkLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/IJ5NEDNC.pdf"><img src="https://assets.dio.me/Kevd3DGFNY-Qa0XR2GjyA9ML57MD5sjOo0s7sbSwTj0/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzBhNmNmZDEtMjc2OS00NDYzLTkyOTktOThhNGQ1ODJhNDNkLnBuZw" width="100px"></a></td>
+      <td><a href="./desafios/ExplorandoEndpointsERequisiçõesHTTP/"><img src="https://assets.dio.me/slgnz-1wSceJdY16lV4eudBBeUbJoXYpw0NoI-EmT-Q/f:webp/h:77/q:80/w:77/L2NvZGVfY2hhbGxlbmdlL2JhZGdlLzU2MDJiYzAzLTBmODQtNDk2Yy1hMDBlLTk1Nzk3ZTBjNjMzZi53ZWJw" width="100px"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📌 Atividades e Projetos
 - **Módulo 1:** Princípios do Desenvolvimento de Aplicações 
 - **Módulo 2:** Sintaxe Básica com .NET - [Desafio Estacionamento](https://github.com/alicessena/trilhaNetFundamentosDesafio)

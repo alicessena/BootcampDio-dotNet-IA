@@ -101,6 +101,23 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
       <td>
           <a href="https://hermes.dio.me/certificates/RUD7WI58.pdf"><img src="./badges/desafiodois.webp" width="100px"></a>
       </td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/CN9XEGPZ.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+       </td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/N03HXLF3.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+       </td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/9C1T82SE.pdf"><img src="./badges/csdois.webp" width="100px"></a>
+       </td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/C1MQMLBF.pdf"><img src="./badges/desafio4.webp" width="100px"></a>
+       </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="./desafios/ModelandoObjetosEClasses/"><img src="./badges/desafio5.webp" width="100px"></a>
+      </td>
     </tr>
 </table>
 
@@ -108,7 +125,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 ## 📌 Atividades e Projetos
 - **Módulo 1:** Principios do Desenvolvimento de Aplicações 
 - **Módulo 2:** Sintaxe Básica com .Net - [Desafio Estacionamento](https://github.com/alicessena/trilhaNetFundamentosDesafio).
-- **Módulo 3:** Programação Orientada a Objetos - [Desafio Hospedagem](https://github.com/alicessena/TrilhaNetExplorandoDesafio).
+- **Módulo 3:** Programação Orientada a Objetos - [Desafio Hospedagem](https://github.com/alicessena/TrilhaNetExplorandoDesafio). | [Desafio POO](https://github.com/alicessena/TrilhaNetPooDesafio).
 - **Módulo 4:** Desenvolvimento de API
 - **Módulo 5:** Integração com Banco de Dados
 - **Módulo 4:** Introdução a Serviços de IA na Cloud com a Azure

@@ -115,12 +115,6 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 
 ---
 
-## 📜 Licença
-Este projeto está sob a licença **MIT**.  
-Sinta-se à vontade para utilizá-lo e adaptá-lo conforme necessário.
-
----
-
 | <img width="120" src="https://github.com/alicessena.png"> |
 |:----------------------------------------------------------:|
 | **Alice Sena** |

@@ -34,11 +34,11 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hermes.dio.me/certificates/BV0ONWBC.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/410FUWJI.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/U0XUNBCL.pdf"><img src="./badges/github.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/6XTBRBNU.pdf"><img src="./badges/portfolio.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/OC0HGIJ5.pdf"><img src="./badges/opens.webp" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/BV0ONWBC.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/410FUWJI.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/U0XUNBCL.pdf"><img src="https://assets.dio.me/hyHTwMe8ItJmTWHGYgJuSrCHJU9b2GFyeVAu7EU2LCk/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/6XTBRBNU.pdf"><img src="https://assets.dio.me/F7cNyzSr7NYBg8AQtNRCcl0D6ZpcG9Qmw3wTCAgkhb4/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYTc3YzAzZTEtMGMzYi00OWM0LWI2YjgtZTAwMmNiYzRiZjkwLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/OC0HGIJ5.pdf"><img src="https://assets.dio.me/7zlSEhubu_BdgCc-cq0JjqTP_F3wZ7DGfFqA8uoBmJU/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvZTgzMTEyMTAtZjRjNi00Yzg0LTlkODItMzE1ZWQxM2ZmMDI3LnBuZw" width="100px"></a></td>
     </tr>
   </tbody>
 </table>
@@ -54,17 +54,17 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hermes.dio.me/certificates/PEBJAW6G.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/RLSDVQQJ.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/PPRFNNGR.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/UHGKKRCW.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/5YU0WKW6.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/PEBJAW6G.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/RLSDVQQJ.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/PPRFNNGR.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/UHGKKRCW.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/5YU0WKW6.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
     </tr>
     <tr>
-      <td><a href="https://hermes.dio.me/certificates/XBLJYY2A.pdf"><img src="./badges/csharp.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/XJQQ674Z.pdf"><img src="./badges/desafio.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/ILPAH33Y.pdf"><img src="./badges/desafiocomp.webp" width="100px"></a></td>
-      <td><a href="./desafios"><img src="./badges/desafio3.webp" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/XBLJYY2A.pdf"><img src="https://assets.dio.me/2Mxbobm38CIAUVkYJ9l9cXp-DSt8bQqkU8wLHhZ1LeA/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzNjMWEzZDAtNDdhZS00Zjc2LTk0YjEtYjllMDBmODllODE1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/XJQQ674Z.pdf"><img src="https://assets.dio.me/UiBpAnYdWp4kXsiDMhHfC4clR6Sc6CXi-cZ0YzpVOJY/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvZGFhMzQ1NDgtZjdiZi00ZDlhLTgyZGYtZTMzYzQ2YjI0ZGRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/ILPAH33Y.pdf"><img src="https://assets.dio.me/h-GH_8jXy8rK9ml25O-A1GkN9XBNM2-c4ZgVjg0b68c/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYTJkOTI0ZDUtZGQyYi00MmU1LWIyZjktZGYzMDQwNTY5NDY4LnBuZw" width="100px"></a></td>
+      <td><a href="./desafios"><img src="https://assets.dio.me/41B0ugZsklmoL3Cq9CHr-wpxzDEPD4-5VcqZIbI5Ta8/f:webp/h:77/q:80/w:77/L2NvZGVfY2hhbGxlbmdlL2JhZGdlL2NhNWVhNWYwLThhYzgtNGQyYi1iZTJiLWVjZDFkYmEyMDA2ZS53ZWJw" width="100px"></a></td>
       <td></td>
     </tr>
   </tbody>
@@ -81,22 +81,22 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hermes.dio.me/certificates/4NW4R7VH.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/OVCOAUVW.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/WRECTEY0.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/EBEVAHAA.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/CXTLYEAV.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/4NW4R7VH.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/OVCOAUVW.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/WRECTEY0.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/EBEVAHAA.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/CXTLYEAV.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
     </tr>
     <tr>
-      <td><a href="https://hermes.dio.me/certificates/RUD7WI58.pdf"><img src="./badges/desafiodois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/CN9XEGPZ.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/N03HXLF3.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/9C1T82SE.pdf"><img src="./badges/csdois.webp" width="100px"></a></td>
-      <td><a href="https://hermes.dio.me/certificates/C1MQMLBF.pdf"><img src="./badges/desafio4.webp" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/RUD7WI58.pdf"><img src="https://assets.dio.me/0hzKXCyPcGFzUeGjHPm1D98CQs9GrDPH9Ly1yvN7ktc/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvOTA5ZWZhMmItYWI4Yy00ODQ3LThmOGItNmRjNjBjZjM4MTgzLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/CN9XEGPZ.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/N03HXLF3.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/9C1T82SE.pdf"><img src="https://assets.dio.me/xX0SrQdPrQx3jzSFyEh8_lXFtBMyr1fjkMiV-OFFzas/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOWNkNzY0YzItOWI5MS00ZjMzLThiMTItMzQyNWJmYzRlNWRiLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/C1MQMLBF.pdf"><img src="https://assets.dio.me/noZ80UGEi83MUuUijqhfirS9SKkrxuaheWxdFTmKI7c/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvNDAzNzVmY2UtYzZkNi00OGJjLWJhNjAtMWJlYTA3ODE0NDBlLnBuZw" width="100px"></a></td>
     </tr>
     <tr>
       <td colspan="5" align="center">
-        <a href="./desafios/ModelandoObjetosEClasses/"><img src="./badges/desafio5.webp" width="100px"></a>
+        <a href="./desafios/ModelandoObjetosEClasses/"><img src="https://assets.dio.me/lB4AlTzcNUjbFg4fj2gkea93uSV8T6hHStm4Sb8VHyA/f:webp/h:77/q:80/w:77/L2NvZGVfY2hhbGxlbmdlL2JhZGdlLzc2NGNlNDE0LTViM2YtNDI3MS1iOTFmLTVmODUzZThhZmExMC53ZWJw" width="100px"></a>
       </td>
     </tr>
   </tbody>

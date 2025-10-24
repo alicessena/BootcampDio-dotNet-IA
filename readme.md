@@ -97,6 +97,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
     <td>
         <a href="https://hermes.dio.me/certificates/CXTLYEAV.pdf"><img src="./badges/csdois.webp" width="100px"></a>
     </td>
+    </tr>
     <tr> 
       <td>
           <a href="https://hermes.dio.me/certificates/RUD7WI58.pdf"><img src="./badges/desafiodois.webp" width="100px"></a>

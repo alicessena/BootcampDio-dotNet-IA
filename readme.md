@@ -2,6 +2,8 @@
 
 # ⚡ Avanade - Back-end com .NET e IA
 
+<img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" width="150px;" alt="Badge Final"/><br>
+
 </div>
 
 Repositório dedicado às atividades, desafios e projetos desenvolvidos durante o bootcamp **Avanade - Back-end com .NET e IA** da [Digital Innovation One](https://www.dio.me/).
@@ -24,6 +26,36 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 ---
 
 ## 🏆 Certificados Conquistados (Clique e Acesse)
+
+### 🚀 Certificado Final
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="1">Certificado Final</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <td><img src="https://hermes.dio.me/certificates/cover/PW2RDEWW.jpg" width="300px"></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🚀 Desafio Técnico Avanade
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Projeto Final</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://assets.dio.me/TrJul9B5LNu6I2PLQNEIfvWQXCjAcM3zY51ms11XFgc/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvMzEyMDM0MTAtZmRlZS00MGRiLWIxMTQtMzk3MTA5ODQzYmZlLnBuZw" width="100px"></td>
+      <td><img src="./certificado.png" width="300px"></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 🧩 Princípios do Desenvolvimento de Aplicações
 <table border="1">
@@ -124,14 +156,55 @@ Durante o bootcamp, foram utilizadas diversas tecnologias e conceitos, incluindo
 
 ---
 
+### 🗄️ Integração com Banco de Dados
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="5">Certificados do Módulo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://hermes.dio.me/certificates/MZ9XJJYH.pdf"><img src="https://assets.dio.me/RUxIxJwIssZkZREZO0m6JXgk0qJC1jnAhmEL3WL9IrQ/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYTNiOTQ2ODYtMDM5Mi00MGQyLWE3MzItMzMwN2FiMWE1YmNhLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/CN1RQ5HC.pdf"><img src="https://assets.dio.me/NtrEPwiZCTnWta23Acuba1gbhyH1-giQwEk-H5FhhSo/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOTJiMTRlYWQtZThiNC00ZWNhLWFiMDgtNjgwMGM4MjQyNDY5LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/S9OPYOKH.pdf"><img src="https://assets.dio.me/b9t3T2rs0KY2ZC4_kAx9kQI79xe1W6JekcwX07Ywffo/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzYxZTg0YzMtMDA0MS00NzZmLThmMjEtOTRiYzRjMDRiZDU1LnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/JUGOA6AU.pdf"><img src="https://assets.dio.me/qMnrGVClDHNkD7Qpf2rTuYvnnLGKQVmGaZmPWHeHugE/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvNDBkMzI5YTMtNGZmZS00YzJiLWFmODctZGM0YjA4ZmU4MWQyLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/EQVTS3BT.pdf"><img src="https://assets.dio.me/oeJNJ1k_qGprbR9J2TxnGaeFJlhGphkhKzc9uMHir-M/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvNzg4OWMyMzEtN2QxMi00YjljLWJlMGYtMWE5MzFkYjI0OWYzLnBuZw" width="100px"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ☁️ Introdução a Serviços de IA na Cloud com a Azure
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6">Certificados do Módulo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://hermes.dio.me/certificates/KS8EOP4Q.pdf"><img src="https://assets.dio.me/9BqRJTF83U-Zi8b2-nwLdeh4BbyNvcl6ChbZdGmV6bw/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYzhlMGY2MWYtY2RmNC00ODUyLTkyZGYtYTAxMDQ1ZGNlM2EyLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/2P31WKVA.pdf"><img src="https://assets.dio.me/vrEkqvGBrI312yH5Kuuj8q6xkhlNbbm1TGN6EYZyInc/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvZGIzYjAwMmItNWQ0Ni00NmZlLThlZTYtNDA5NDUyYjExODYzLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/58SKSKCW.pdf"><img src="https://assets.dio.me/0b9Y01RU3HJTzlTtFSoFSO_G2CoDET3sXyevkPr1l2w/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvM2JhMWQzMzctZWQxYi00NDljLWJjZjItNzg2M2FmY2I5YzdjLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/XSIWZJR8.pdf"><img src="https://assets.dio.me/Qa3nVbQRgd4uYNBaLJiO2wfX4lx95ikQ_jv-aAQs5Nw/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvYTNmZGIyMDUtODhiNS00ODM4LWJmZGEtYTcyMzFlOTRlNmUwLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/XSIWZJR8.pdf"><img src="https://assets.dio.me/mj7jtXiiiui2q2q3hKD12DOK48Pet5hzn-AejA26fZM/f:webp/h:77/q:80/w:77/L2xhYl9wcm9qZWN0cy9iYWRnZXMvZGM5MmU0OTktNmVjNi00YzgyLWFmM2YtMDBjNDA1MzhjYTgwLnBuZw" width="100px"></a></td>
+      <td><a href="https://hermes.dio.me/certificates/5WBK22HH.pdf"><img src="https://assets.dio.me/Qd4f7UwAw_Ycq055g4zhIFH3OUZGz37kFTf5bBfbrH0/f:webp/h:77/q:80/w:77/L2NvdXJzZXMvYmFkZ2UvOTFiYTk4MGQtNmZjZi00ZWU2LTg2OGYtOGUwMzFjOWExNWE2LnBuZw" width="100px"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📌 Atividades e Projetos
 - **Módulo 1:** Princípios do Desenvolvimento de Aplicações 
-- **Módulo 2:** Sintaxe Básica com .NET - [Desafio Estacionamento](https://github.com/alicessena/trilhaNetFundamentosDesafio)
-- **Módulo 3:** Programação Orientada a Objetos - [Desafio Hospedagem](https://github.com/alicessena/TrilhaNetExplorandoDesafio) | [Desafio POO](https://github.com/alicessena/TrilhaNetPooDesafio)
-- **Módulo 4:** Desenvolvimento de API
-- **Módulo 5:** Integração com Banco de Dados
+- **Módulo 2:** Sintaxe Básica com .NET | [Desafio Estacionamento](https://github.com/alicessena/trilhaNetFundamentosDesafio)
+- **Módulo 3:** Programação Orientada a Objetos | [Desafio Hospedagem](https://github.com/alicessena/TrilhaNetExplorandoDesafio) | [Desafio POO](https://github.com/alicessena/TrilhaNetPooDesafio)
+- **Módulo 4:** Desenvolvimento de API | [Trilha API](https://github.com/alicessena/TrilhaNetAPI-Desafio)
+- **Módulo 5:** Integração com Banco de Dados | [Trilha Banco de Dados](https://github.com/alicessena/TrilhaNetBancoDeDadosDesafio)
 - **Módulo 6:** Introdução a Serviços de IA na Cloud com a Azure
-- **Projeto Final:** Desafio Técnico Avanade
+- **Projeto Final:** Desafio Técnico Avanade | [Repositório do Projeto Final](https://github.com/alicessena/DesafioTecnicoAvanade)
 
 ---
 
